@@ -15,7 +15,7 @@ Este es un sencillo proyecto en JavaScript que permite agregar nombres a una lis
 Para ejecutar este proyexcto solo necesitas un navegador moderno
 
 ## Instalacion y uso🔧
-1. Clona este repositorio: (`https://github.com/SophiRJ/challenge-amigo-secreto.git`)
+1. Clona este repositorio:[https://github.com/SophiRJ/challenge-amigo-secreto.git](https://github.com/SophiRJ/challenge-amigo-secreto.git)
 2. Abre el archivo `index.html` en tu navegador
 3. Escribe los nombre en el input y presiona **Añadir**
 4. Cuando tengas todos los nombres, haz clic en **Sortear amigo**.
@@ -23,7 +23,7 @@ Para ejecutar este proyexcto solo necesitas un navegador moderno
 
 ## Notas📝 
 - `console.log(amigos);` te permite ver los nombres agregados en la consola del navegador.
-- Prueba el juego en el enlace (`https://sophirj.github.io/challenge-amigo-secreto/`).
+- Prueba el juego en el enlace [https://sophirj.github.io/challenge-amigo-secreto/](https://sophirj.github.io/challenge-amigo-secreto/).
 ## Autor📌
 - Sofia Rojas
 
