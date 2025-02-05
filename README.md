@@ -23,6 +23,7 @@ Para ejecutar este proyexcto solo necesitas un navegador moderno
 
 ## Notas📝 
 - `console.log(amigos);` te permite ver los nombres agregados en la consola del navegador.
+- Prueba el juego en el enlace `https://sophirj.github.io/challenge-amigo-secreto/`.
 ## Autor📌
 - Sofia Rojas
 
